@@ -1,5 +1,10 @@
 ---
 title: Refinding my voice
+date: 2018-12-29
+slug: voice
+draft: false
+layout: Layout
+category: meta
 ---
 
 My ability to write well is directly correlated with how frequently I ~~write~~ hit "publish."
